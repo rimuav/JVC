@@ -2,7 +2,7 @@
 
 ### Proyecto con Micro:bit
 
-#### Video de proyecto Micro:bit ensambrado y funcional.
+#### Video de proyecto Micro:bit ensamblado y funcional.
 https://www.youtube.com/watch?v=h4FOnL3MhMs
 
 #### Proyecto completo Micro:bit, un transmisor y un receptor.
