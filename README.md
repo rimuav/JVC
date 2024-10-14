@@ -15,7 +15,7 @@ https://makecode.microbit.org/S71653-91881-03639-79444?authuser=0
 https://makecode.microbit.org/S08937-16588-74590-65494?authuser=0
 
 --- 
-Los a continuacion cuentan con un LED externo para las las alertas Amarilla y Roja.
+Los a continuacion cuentan con un LED externo para las alertas Amarilla y Roja.
 
 ### Proyecto completo 
 https://makecode.microbit.org/S66868-08326-61819-65459
