@@ -6,19 +6,15 @@
 https://www.youtube.com/watch?v=h4FOnL3MhMs
 
 #### Proyecto completo Micro:bit, un transmisor y un receptor.
-https://makecode.microbit.org/S60959-53714-67956-66959?authuser=0
+https://makecode.microbit.org/S66736-78173-80401-50095
+Al pulsar el logotipo del microbit, se mostrara en la pantalla de cada equipo TX o RX respectivamente de que equipo es.
 
 ### Programa para el Micro:bit que realiza la medición y envia la información para la alerta
-https://makecode.microbit.org/S71653-91881-03639-79444?authuser=0
+https://makecode.microbit.org/S49183-07045-88627-88136
+- Este es el que sera cargado en el microbit.
 
 ### Programa para el Micro:bit que recibe la información y genera la alerta
-https://makecode.microbit.org/S08937-16588-74590-65494?authuser=0
+https://makecode.microbit.org/S23540-53690-06104-00578
+- Este es el que sera cargado en el microbit.
+---
 
---- 
-Los a continuacion cuentan con un LED externo para las alertas Amarilla y Roja.
-
-### Proyecto completo 
-https://makecode.microbit.org/S66868-08326-61819-65459
-
-### Micro:bit receptor (RX)
-https://makecode.microbit.org/S64613-80529-72550-75965
